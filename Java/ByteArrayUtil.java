@@ -24,7 +24,7 @@ import org.apache.logging.log4j.Logger;
  * <p>
  * This class is not meant to be used by library users.
  * 
- * @author Katja Hahn
+ * @author Deque
  * 
  */
 public class ByteArrayUtil {
