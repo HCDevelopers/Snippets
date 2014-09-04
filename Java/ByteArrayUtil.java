@@ -21,8 +21,6 @@ import org.apache.logging.log4j.Logger;
  * {@link #getBytesLongValueSafely(byte[], int, int)} will also convert arrays
  * that are too short for the offset and the length given. It will assume the
  * missing values to be zero.
- * <p>
- * This class is not meant to be used by library users.
  * 
  * @author Deque
  * 
